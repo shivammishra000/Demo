@@ -1,4 +1,4 @@
 # Demo
 This Is My First Git Repository.
 <br>
-Author-Shivam (student)
+Author-Shivam Mishra
